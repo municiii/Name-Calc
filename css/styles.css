@@ -1,0 +1,43 @@
+h1 {
+  color: blueviolet;
+  text-align: center;
+}
+h2 {
+  color: blue;
+  font-style: oblique;
+  text-align: center;
+}
+h3 {
+  color: blue;
+  font-style: italic;
+  font-size: 25px;
+}
+p {
+  color: beige;
+  font-family: sans-serif;
+}
+body {
+  background-color: gray;
+}
+ul {
+  line-height: 20px;
+}
+
+.test-box {
+  border: 2px silver;
+  padding-top:50px;
+  padding-bottom: 20px;
+  margin: 30px;
+  background-color: slategrey;
+}
+body {
+  font-family: sans-serif;
+}
+.marmoset {
+  color:blue;
+  font-size: 25px;
+}
+.parrot {
+  color: blue;
+  font-size: 25px;
+}
